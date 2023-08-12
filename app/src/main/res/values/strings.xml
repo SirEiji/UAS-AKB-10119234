@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UAS-10119234</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login">L o g i n</string>
+    <string name="register">R e g i s t e r</string>
+    <string name="logout">L o g o u t</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="version">v.1.0</string>
+    <string name="copyright">C O P Y R I G H T</string>
+    <string name="clickRegister"><u>Click Register</u></string>
+    <string name="prfl"><u>P R O F I L E</u></string>
+    <string name="contact"><u>M Y  C O N T A C T</u></string>
+    <string name="channel">CH1</string>
+    <string name="clickLogin"><u>Click Login</u></string>
+    <string name="clientid">432297368131-5nd3pcats16jvuubntp4nat97hdakfmo.apps.googleusercontent.com</string>
+</resources>
